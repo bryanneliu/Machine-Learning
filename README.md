@@ -1,2 +1,2 @@
 # MachineLearning
-SageMaker, Transformers, Recommender System
+SageMaker and Recommender System
