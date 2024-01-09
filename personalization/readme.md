@@ -11,9 +11,4 @@
 # Learning Summary
 * https://github.com/jrzaurin/pytorch-widedeep (pytorch)
 * https://arxiv.org/pdf/1606.07792.pdf (wide and deep paper)
-## Paper Summary
-**However, deep neural networks with embeddings can over-generalize and recommend less relevant items when the user-item interactions are sparse and high-rank.**
-
-In the context of matrix factorization or embedding-based models, "rank" refers to the number of latent factors used to represent users and items. When user-item interactions are sparse and high-rank, it means there are not many instances of users interacting with items, and the recommendation task is complex with many latent factors involved. This complexity can lead to challenges, including over-generalization and potentially recommending less relevant items due to the sparsity of interactions.
-  
   
